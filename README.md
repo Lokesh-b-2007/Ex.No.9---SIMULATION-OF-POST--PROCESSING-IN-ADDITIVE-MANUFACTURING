@@ -47,8 +47,18 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Support Removal:
+<img width="1382" height="698" alt="image" src="https://github.com/user-attachments/assets/ff933c83-9c9e-4a44-90d2-d78a0897d87f" />
+
+### UV Curing:
+<img width="1382" height="700" alt="image" src="https://github.com/user-attachments/assets/4eb96328-7449-416e-8260-4b149c95de0b" />
+
+### Heat Treatment:
+<img width="1382" height="698" alt="image" src="https://github.com/user-attachments/assets/ba976bbc-2457-4291-8172-c0a822c54579" />
+
+
+### Name: LOKESH B
+### Register Number: 212224040172
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
